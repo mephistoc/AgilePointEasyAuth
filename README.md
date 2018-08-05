@@ -6,5 +6,7 @@ It will skip password checking in order to accelerate development or test progre
 # !!!Warning!!!
 
 AgilePoint Easy Authentication Module is not part of AgilePoint product!
+
 AgilePoint Easy Authentication Module should not been use in production environment!
+
 AgilePoint Easy Authentication Module has not been tested throughly by profession QA engineer!
